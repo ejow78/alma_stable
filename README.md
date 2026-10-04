@@ -15,4 +15,4 @@ Latest version: alma v1.1
 ### Contact
 E-mail: nightsdark11@gmail.com\
 Discord: lancool
-# alma_stable
+
